@@ -1,4 +1,8 @@
-# 📱✨ QR Code Generator - README ✨📱
+# 📱✨ QR Code Generator ✨📱
+
+
+![image](https://github.com/user-attachments/assets/739218c9-0374-4bbf-b258-fdeac0f4c7c4)
+
 
 Welcome to the **QR Code Generator**! This sleek and user-friendly application allows you to generate QR codes instantly. Whether it’s a link, a piece of text, or just some fun experimentation, this tool has you covered. 🚀
 
@@ -32,4 +36,7 @@ Welcome to the **QR Code Generator**! This sleek and user-friendly application a
 
 Happy QR Code Generating! 🚀✨
 
+---
 
+### Made by **Prashid Dilshan** ❤️
+This project was created by Prashid Dilshan as part of a front-end development exercise. 
